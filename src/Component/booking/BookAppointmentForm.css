@@ -4,6 +4,11 @@
     padding: 50px;
     border: 1px solid #ccc;
     border-radius: 5px;
+    
+}
+
+.book-appointment-form h2 {
+    font-size: 40px; /* Adjust the font size as needed */
 }
 
 .form-group {
