@@ -19,22 +19,22 @@ const Footer = () => {
                         <p className="footer-paragraph">We're a team of physiotherapists specialized in different disciplines of physiotherapy, including orthopedic, sports, and neurology.           <br></br> Our comprehensive services include chiropractic, physiotherapy, and orthotics support.</p>
                         
                         <div className="footer-contact">
-                            <a href="tel:+919711841779" className="footer-icon">
+                            <a href="tel:+919205011372" className="footer-icon">
                                 <FontAwesomeIcon icon={faPhone} />
                             </a>
                             <div className="footer-text">
                                 <h6>Contact Us</h6>
-                                <h4>(+91) 9711841779</h4>
+                                <h4>(+91) 9205011372</h4>
                             </div>
                             </div>
 
                             <div className="footer-contact">
-                            <a href="mailto:handsart@mail.com" className="footer-icon">
+                            <a href="mailto:handsartphysio@gmail.com" className="footer-icon">
                                 <FontAwesomeIcon icon={faEnvelope} className="email-icon" />
                             </a>
                             <div className="footer-text">
                                 <h6>Email</h6>
-                                <h4>handsart@mail.com</h4>
+                                <h4>handsartphysio@gmail.com</h4>
                             </div>
                         </div>
                     </div>
