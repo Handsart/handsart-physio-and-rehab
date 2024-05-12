@@ -8,8 +8,9 @@ nav{
 /* nav.css */
 
 .logo-img {
-    width: 180px;
+    width: 117px;
     height: auto;
+    border-radius: 100px;
     /* You can add more styling here if needed */
 }
 

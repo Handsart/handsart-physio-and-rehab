@@ -1,7 +1,7 @@
 import React from 'react';
 import {Navbar, Container, NavDropdown, Collapse, Nav} from 'react-bootstrap';
 import './Nav.css'
-import logo from '../../Assets/logoJR1.png';
+import logo from '../../Assets/logoHanstart.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPhone, faSearch} from '@fortawesome/free-solid-svg-icons'
 
@@ -36,9 +36,9 @@ const Navbars = ()=> {
 
               {/* <Nav.Link>Contact Us</Nav.Link> */}
               <Nav.Link><FontAwesomeIcon icon={faSearch} /></Nav.Link>
-                  <Nav.Link href="tel:+919711841779">
+                  <Nav.Link href="tel:+919205011372">
                     <FontAwesomeIcon icon={faPhone} className='phone' />
-                            (+91) 9711841779
+                            (+91) 9205011372
                     </Nav.Link>
                   <Nav.Link>
                     <button>contact us <span> > </span></button>

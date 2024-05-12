@@ -65,7 +65,8 @@ input{
 /* start css to the footer */
 footer img.footerlogo{
   margin: 15px 0px;
-  width: 180px;
+  width: 150px;
+  border-radius: 100px;
   height: auto;
 }
 
