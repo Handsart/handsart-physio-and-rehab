@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/handsart-physio-and-rehab/static/css/main.c41ac3cb.css",
-    "main.js": "/handsart-physio-and-rehab/static/js/main.1dac8606.js",
-    "static/js/787.60921942.chunk.js": "/handsart-physio-and-rehab/static/js/787.60921942.chunk.js",
+    "main.js": "/handsart-physio-and-rehab/static/js/main.3a899606.js",
+    "static/js/787.123583b3.chunk.js": "/handsart-physio-and-rehab/static/js/787.123583b3.chunk.js",
     "static/media/r6.png": "/handsart-physio-and-rehab/static/media/r6.8e2da205826bf9357ec0.png",
     "static/media/r3.png": "/handsart-physio-and-rehab/static/media/r3.f708201441d7bbdca715.png",
     "static/media/r5.png": "/handsart-physio-and-rehab/static/media/r5.9db2853f75b259b438aa.png",
@@ -25,11 +25,11 @@
     "static/media/yt.png": "/handsart-physio-and-rehab/static/media/yt.cd9aa8bb4632cc7b3bc6.png",
     "index.html": "/handsart-physio-and-rehab/index.html",
     "main.c41ac3cb.css.map": "/handsart-physio-and-rehab/static/css/main.c41ac3cb.css.map",
-    "main.1dac8606.js.map": "/handsart-physio-and-rehab/static/js/main.1dac8606.js.map",
-    "787.60921942.chunk.js.map": "/handsart-physio-and-rehab/static/js/787.60921942.chunk.js.map"
+    "main.3a899606.js.map": "/handsart-physio-and-rehab/static/js/main.3a899606.js.map",
+    "787.123583b3.chunk.js.map": "/handsart-physio-and-rehab/static/js/787.123583b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c41ac3cb.css",
-    "static/js/main.1dac8606.js"
+    "static/js/main.3a899606.js"
   ]
 }
